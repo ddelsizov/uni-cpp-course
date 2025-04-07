@@ -3,7 +3,6 @@
 масива да се умножи по неговия индекс: A[I]=A[I]*I.
 */
 
-#include <climits>
 #include <iostream>
 
 using namespace std;
