@@ -33,3 +33,9 @@
 
 # PDB
 *.pdb
+
+# ilk
+*.ilk
+
+# VSCodes specifics
+.vscode
